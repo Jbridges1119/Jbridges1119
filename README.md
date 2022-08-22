@@ -3,7 +3,9 @@
 ### I'm a web developer with a background as a Red Seal Technician in the Trades. 
 
 - 🔭 I’m currently working on learning TypeScript and then building my portfolio site with it.
-- 📫 How to reach me: Email: Jbridges1119@gmail.com or https://www.linkedin.com/in/jeff-bridges-bb755a236/
+- 📫 How to reach me: Email: 
+    - Jbridges1119@gmail.com 
+    - https://www.linkedin.com/in/jeff-bridges-bb755a236/
 - 😄 Pronouns: He/Him
 
 ### Languages
