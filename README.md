@@ -2,7 +2,7 @@
 
 ### I'm a web developer with a background as a Red Seal Technician in the Trades. 
 
-- 🔭 I’m currently working on learning TypeScript and then plan to build my portfolio site with it.
+- 🔭 I’m currently working on learning TypeScript.
 - 📫 How to reach me:
     - Jbridges1119@gmail.com 
     - https://www.linkedin.com/in/jeff-bridges-bb755a236/
