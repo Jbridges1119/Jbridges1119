@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jeff.
 
-### I'm a web developer with a background as a Red Seal Technician in the Trades. 
+### I'm a Full-Stack Web Developer with a background as a Red Seal Technician in the Trades. 
 
 - 🔭 I’m currently working on learning TypeScript.
 - 📫 How to reach me:
