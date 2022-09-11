@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Jeff.
 
-### I'm a Full-Stack Web Developer with a background as a Red Seal Technician in the Trades. 
+## [Jeff Bridges' Portfolio](https://jbridges1119.net)
 
+### I'm a Full-Stack Web Developer with a background as a Red Seal Technician in the Trades. 
 - 🔭 I’m currently working on learning TypeScript.
 - 📫 How to reach me:
     - Jbridges1119@gmail.com 
