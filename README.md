@@ -5,6 +5,7 @@
 ### I'm a Full-Stack Web Developer with a background as a Red Seal Technician in the Trades. 
 - 🔭 I’m currently working on learning TypeScript.
 - 📫 How to reach me:
+    - [My Portfolio](https://jbridges1119.net) 
     - Jbridges1119@gmail.com 
     - https://www.linkedin.com/in/jeff-bridges-bb755a236/
 - 😄 Pronouns: He/Him
