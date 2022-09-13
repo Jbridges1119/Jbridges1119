@@ -3,7 +3,7 @@
 ## [Jeff Bridges' Portfolio](https://jbridges1119.net)
 
 ### I'm a Full-Stack Web Developer with a background as a Red Seal Technician in the Trades. 
-- 🔭 I’m currently working on learning TypeScript.
+- 🔭 I’m currently working on learning C# and .NET.
 - 📫 How to reach me:
     - [My Portfolio](https://jbridges1119.net) 
     - Jbridges1119@gmail.com 
