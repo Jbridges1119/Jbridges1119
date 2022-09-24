@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jeff.
 
-## [Jeff Bridges' Portfolio](https://jbridges1119.net)
+## [Visit My Portfolio](https://jbridges1119.net)
 
 ### I'm a Full-Stack Web Developer with a background as a Red Seal Technician in the Trades. 
 - 🔭 I’m currently working on learning C# and .NET.
