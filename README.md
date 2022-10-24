@@ -3,12 +3,16 @@
 ## [Visit My Portfolio](https://jbridges1119.net)
 
 ### I'm a Full-Stack Web Developer with a background as a Red Seal Technician in the Trades. 
-- 🔭 I’m currently working on learning C# and .NET.
+I pivoted from being a Certified HVAC/R Technician due to always having an interest in problem solving and bringing ideas to life. With Web Development I can nurture my creativity through a new medium, and I'm excited to build intuitive, responsive, and efficient web applications with a team. I graduated from Lighthouse Labs Bootcamp in August 2022 and am looking to build upon the experiences I gained there.
+
+- 🔭 I’m currently working on learning Git and GitHub more in-depth.
 - 📫 How to reach me:
     - [My Portfolio](https://jbridges1119.net) 
-    - Jbridges1119@gmail.com 
-    - https://www.linkedin.com/in/jeff-bridges-bb755a236/
+    - [My Email](mailto:Jbridges1119@gmail.com) 
+    - [My Linkedin](https://www.linkedin.com/in/jeff-bridges-bb755a236/)
 - 😄 Pronouns: He/Him
+
+I'd love to hear from you. Whether it's a project collaboration, job opportunity, or just to chat. Please feel free to contact me!
 
 ### Languages
 ![image](https://user-images.githubusercontent.com/95982839/165648699-612194af-f611-4d30-be01-d46d5085dd47.png)
