@@ -3,7 +3,7 @@
 ## [Visit My Portfolio](https://jbridges1119.net)
 
 ### I'm a Full-Stack Web Developer with a background as a Red Seal Technician in the Trades. 
-I pivoted from being a Certified HVAC/R Technician due to always having an interest in problem solving and bringing ideas to life. With Web Development I can nurture my creativity through a new medium, and I'm excited to build intuitive, responsive, and efficient web applications with a team. I graduated from Lighthouse Labs Bootcamp in August 2022 and am looking to build upon the experiences I gained there.
+I pivoted from being a Certified HVAC/R Technician due to always having an interest in problem solving and bringing ideas to life. With Web Development I can nurture my creativity through a new medium, and I'm excited to build intuitive, responsive, and efficient web applications with a team. I graduated from Lighthouse Labs Bootcamp in August 2022 and am currently working for Greenfoot Energy Solutions as a Full Stack Developer.
 
 - 🔭 I’m currently working on learning Git and GitHub more in-depth.
 - 📫 How to reach me:
